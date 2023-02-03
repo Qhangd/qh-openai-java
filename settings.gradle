@@ -1,0 +1,5 @@
+rootProject.name = 'qh-openai-java'
+include 'common'
+include 'client'
+include 'example'
+
