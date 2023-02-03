@@ -5,7 +5,7 @@ import org.completions.entity.CompletionRequest;
 
 public class Main {
     public static void main(String[] args) {
-        ChatGptService chatGptService = new ChatGptService("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");
+        ChatGptService chatGptService = new ChatGptService("xxx");
 
         CompletionRequest completionRequest = CompletionRequest.builder()
                 .model("text-davinci-003")
